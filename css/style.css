@@ -1,0 +1,56 @@
+body {
+  font-family: Georgia;
+  /* Set line height to be 1.5 times larger than default */  
+  line-height: 1.5em;  
+  background-color: #ABDCD6;
+  text-align: center;
+
+}
+form{
+  margin: 2%;
+  color: blue;
+
+}
+input, select{
+  font-family: Georgia;
+  height: 30px;
+  margin: 10px;
+  padding: 5px;
+  border: 5px;
+  font-size: 16px;
+  background-color: #FFFCEC;
+  border-radius: 8px;
+  border: 1px #5F9EA0;
+  box-shadow: 3px 3px orange, 2px 2px orange, 1px 1px orange;
+  color: blue;
+}
+form{
+	font-size: 25px;
+}
+
+header {
+  padding:10px;
+  font-size: 34px;
+  margin-top: 50px;
+  color: blue;
+}
+
+
+
+button{
+  font-family: Georgia;
+  width: 250px;
+  height: 50px;
+  margin: 20px;
+  border: 5px;
+  font-size: 16px;
+  background-color: #FFFCEC;
+  border-radius: 8px;
+  border: 1px #5F9EA0;
+  border-style: ridge;
+  color: blue;
+   box-shadow: 3px 3px orange, 2px 2px orange, 1px 1px orange;
+
+}
+
+
