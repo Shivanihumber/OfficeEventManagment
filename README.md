@@ -9,3 +9,6 @@ OfficeEventManagment
 ![part4](https://user-images.githubusercontent.com/35033507/73501898-441a8c00-4395-11ea-8770-c8752bf58b3f.png)
 ![part5](https://user-images.githubusercontent.com/35033507/73501997-92c82600-4395-11ea-8d15-805f55856564.png)
 ![part6](https://user-images.githubusercontent.com/35033507/73502161-18e46c80-4396-11ea-840a-cee8e1a77423.png)
+
+![part7](https://user-images.githubusercontent.com/35033507/73502243-4e895580-4396-11ea-95a6-a88046ce0608.png)
+
